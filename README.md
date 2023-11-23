@@ -1,4 +1,4 @@
-<img alt="A red cube pushes a grey cube off screen" width="100%" height="100%" src="https://github.com/krissendev/upbge-player/blob/master/ImagesForHelp/Img0_header.jpg">
+<img alt="A red cube pushes a grey cube off screen" width="100%" height="100%" src="https://github.com/krissendev/upbge-player/blob/master/Img0_header.jpg">
 <h1 align="center">Upbge-player</h1> 
 Made with Version UPBGE 0.36.1<br>
 https://upbge.org/#/
@@ -44,7 +44,7 @@ Player **gravity** can be set it **/Editor:Logic-Node-Editor/Player: Set Gravity
 Player **mass** can be set it **/Editor:Outliner/Physics/Attributs/Mass** <br>
 Camera **focal lenght** or **clipping distance** can be changed in **/Editor: Outliner/Data**<br>
 Imported or created models can simply be parented to "player", then deleting cube or hiding it to replace it with the desired player geometry.
-<img alt="The default 3D cube has been replaced with a character model by parenting the Character Model Armature to the player" width="100%" height="100%" src="https://github.com/krissendev/upbge-player/blob/master/ImagesForHelp/Img6_import_fbx_parent_player.jpg">
+<img alt="The default 3D cube has been replaced with a character model by parenting the Character Model Armature to the player" width="100%" height="100%" src="https://github.com/krissendev/upbge-player/blob/master/Img6_import_fbx_parent_player.jpg">
 
  <br>
 <br>
